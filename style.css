@@ -1,0 +1,11 @@
+body{
+	margin: 0;
+	padding: 0;;
+	font-family: 'Helvetica', sans-serif;
+	background: #f7f7f7;
+}
+
+.block{
+	background: #ffffff;
+	padding: 2em 3em;
+}
